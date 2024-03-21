@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+div h2{
+    color: white;
+
+}
+
+
+nav ul{
+    color: aquamarine;
+}
+
+
+
+.BTNFACT{
+    background-color: black;
+    padding: 15px 20px;
+    margin-top: 30px;
+    border-radius: .3rem;
+    color: green;
+    font-weight: 700;
+    
+}
+.BTNFACT:hover{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    transition: .2s ease-in;
+}
